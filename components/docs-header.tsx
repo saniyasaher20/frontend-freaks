@@ -24,6 +24,7 @@ export const DocsHeader = ({
         )}
       </div>
       <hr className="my-4" />
+      <button>Copy Code button</button>
     </>
   );
 };
